@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "moviescommons",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/litoarias/MoviesCommons.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "be73734391595af81caf466c6560290a07cfb747"
+      }
+    }
+  ],
+  "version" : 2
+}
