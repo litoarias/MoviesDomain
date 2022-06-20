@@ -20,7 +20,6 @@ final class MoviesDomainTests: XCTestCase {
             return
         }
         XCTAssertEqual(topRated.results.count, 1)
-        
     }
     
     func testGetMovieDetailSuccess() async {
